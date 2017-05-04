@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  DecodingBarcode
 //
-//  Created by Kevin Bilberry on 4/5/17.
+//  Created by Juan Salcedo on 4/5/17.
 //  Copyright © 2017 Juan Salcedo. All rights reserved.
 //
 
